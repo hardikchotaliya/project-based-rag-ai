@@ -2,6 +2,9 @@
 
 A **Project-Based RAG AI** implementation using **DeepSeek R1** and **ChromaDB**, built with **Streamlit** for an interactive chatbot UI.
 
+![image](https://github.com/user-attachments/assets/e21afa21-84e0-4462-acc6-5907a5493a38)
+
+
 ---
 
 ## 🚀 Features
