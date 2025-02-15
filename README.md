@@ -17,7 +17,6 @@ A **Project-Based RAG AI** implementation using **DeepSeek R1** and **ChromaDB**
 ```
 .
 ├── deepseek-rag-agents-ui.py  # Main Streamlit App
-├── requirements.txt           # Dependencies
 ├── istqb-ctfl.pdf             # Sample knowledge document
 └── README.md                  # Project Documentation
 ```
@@ -37,7 +36,7 @@ Make sure you have Python **3.8+** installed.
 - Install Python
 - Install Ollama
 
-### **3️⃣ Start Ollama (Locally)**
+### **3️⃣ Start Ollama (Locally) and other Dependencies**
 Ensure you have **Ollama** installed and running:
 ```bash
 #Install Ollama
